@@ -27,8 +27,7 @@ Just  like DevOps can be seen as offspring or spinoff of Agile thinking,  APIOps
 
 **Practitioners of APIOps principles and values are the builders of the future.**  
 
-IMAGE HERE
-http://apisuomi.fi/wp-content/uploads/2015/06/apiops-design-first.png
+![API life cycle](https://raw.githubusercontent.com/APIOps/APIOPs-manifesto/master/images/apiops-design-first.png)
 
 
 ##APIOps is not...
