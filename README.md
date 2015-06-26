@@ -31,20 +31,6 @@ Just  like DevOps can be seen as offspring or spinoff of Agile thinking,  APIOps
 
 Practitioners of APIOps principles and values are the builders of the future.  
 
-    APIOps manifesto
-
-    APIOps Values – APIOps values are effectively captured in      the Agile Manifesto. APIOps extends the “People over Process over Tools,” and urges API developer  +  system operator + 3rd party service developer collaboration.
-
-    APIOps Principles – APIOps at the conceptual level is based on Agile’s and DevOps principles to focus on effective collaborative design, development and maintenance of APIs to enable extremely fast and flexible service design and development.
-
-    APIOps Methods – You can use Scrum with operations, Kanban with operations, etc. Provide methods to collaboratively design APIs for service development utilizing the principles of design first approach.
-
-    APIOps Practices – Provide low barrier access to reliable APIs, documentation supporting usage, sandboxes to test and build on top of, generated libraries and code examples for service developers. 
-
-    APIOps Tools – Tools you’d use in the commission of these principles. In the APIOps world there’s a lot of  emerging tools and evolving standards in provisioning (docker, vagrant), design (RAML, API Blueprint, Swagger), API server code generation (Drakov ), generating OS specific libraries (APIMATIC ), managing APIs (apinf.com, 3scale.com,) and many more.
-
-    API design first development process
-
 ##Joint open design process
 
 API design first approach focuses on involving service and API developers and marketing to same process of co-creating API description. API description is a communication tool, it is not code, at best it is browser-based graphical userface in which all participants collaborate and contribute. Process involves 3rd party service developers into the development since they are endusers of APIs and know best the needs. Obviously the product owner of service utlizing APIs is involved. During the process all work together; sometimes intensively and occasionally there might be total silence. The  team uses f2f meetigns and online environments as well as instant messaging tools to communicate. In other words, there is no written rule or need to necessary to be all the time in the  space/room. This phase produces shared version controlled understanding of:
