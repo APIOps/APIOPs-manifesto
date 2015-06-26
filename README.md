@@ -7,8 +7,8 @@ McKinsey Global Institute estimates the potential economic impact of the Interne
 A large part of the interoperability, scale, and control for IoT can be achieved through API management.  Standards-based  design patterns for Web APIs, API management, and a  RESTful  architecture provide tremendous value in simplifying the task  of  interoperability across heterogeneous systems handling vast amounts  of  data. Since APIs have become ubiquitous, IoT deployments spanning a  wide  range of market segments can benefit from this proven  architecture.
 
 ```
-**"Companies focusing on enabling fast API development together with customers 
-and nearby interest groups will rule the IoT."**
+**Companies focusing on enabling fast API development together with customers 
+and nearby interest groups will rule the IoT.**
 ```
 
 Industrial Internet, Internet of Everything, Internet of Things (IoT) and Industrie 4.0 are the terms which are brought up more and more in articles and discussions when it comes to future and the visions for it. IoT is driven by the power and speed of APIs. IoT is often discussed in the context of industry mostly because that is where it will first create biggest changes. However, to understand more clearly what IoT is we should take imagine what it could be in the everyday life of citizens. 
@@ -18,9 +18,9 @@ In everyday life IoT can be rather simple things. For example your coffee maker 
 International Organization for Standardization is well known and established standardization body and their definition of IoT is as follows: 
 
 ```
-**"An infrastructure of interconnected objects, people, systems and 
+**An infrastructure of interconnected objects, people, systems and 
 information resources together with intelligent services to allow them 
-to process information of the physical and the virtual world and react."**
+to process information of the physical and the virtual world and react.**
 ``` 
 
 Just  like DevOps can be seen as offspring or spinoff of Agile thinking,  APIOps can be seen to extend DevOps to fulfil the needs of Application  Interface and Internet of Things development (IoT).  Therefore I foresee clear need for APIOps, a new breed of DevOps to support creation and maintence of IoT driven ecosystem. 
