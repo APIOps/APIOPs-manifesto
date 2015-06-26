@@ -1,6 +1,6 @@
 #APIOPs manifesto V1
 
-Maintainer: Jarkko Moilanen ([kyyberi](https://github.com/kyyberi))
+**Maintainer:** Jarkko Moilanen ([kyyberi](https://github.com/kyyberi))
 
 ##APIOps Values 
 APIOps values are effectively captured in the Agile Manifesto. APIOps extends the "People over Process over Tools," and urges API developer + system operator + 3rd party service developer collaboration.
