@@ -53,7 +53,6 @@ All this should take plane inside planned roadmap and business plan. Internet of
 
 
 ##APIOps is not...
-* A certification
 * A role
 * A set of tools
 * A prescriptive process
